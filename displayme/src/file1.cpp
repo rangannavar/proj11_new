@@ -7,7 +7,7 @@ cout<<"enter the nos"<<endl;
 for (int i=0;i<5;i++)
 {
 cin>>a[i];
-cout<<"u hv entered "<<a[i]<<endl;
+cout<<"wat u entered "<<a[i]<<endl;
 }
 /*cout<<"\n array nos are displayed\n";
 for (int i=0;i<5;i++)
